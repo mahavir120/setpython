@@ -5,3 +5,5 @@ data=100
 print(data)
 data=10000
 print(data)
+data=data*2
+print(data)
